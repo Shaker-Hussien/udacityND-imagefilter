@@ -1,0 +1,4 @@
+endpoint:
+http://{{HOST}}/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/1/15/White_Persian_Cat.jpg
+
+{{HOST}} : udacity-imagefilter-service.us-east-1.elasticbeanstalk.com
