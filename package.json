@@ -30,6 +30,6 @@
   },
   "dependencies": {
     "express": "^4.21.2",
-    "jimp": "^0.6.4"
+    "jimp": "^1.6.0"
   }
 }
